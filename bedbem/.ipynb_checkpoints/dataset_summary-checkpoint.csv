@@ -1,0 +1,9 @@
+file,num_audio_files,num_unique_speakers,num_unique_users,total_hours,min_single_audio_duration_sec,avg_audio_duration_sec,max_single_audio_duration_sec
+native_male.csv,1464,10,30,3.19,0.93,7.84,26.98
+native_female.csv,821,10,17,1.86,0.0,8.16,21.15
+non_native_male.csv,1195,10,24,3.28,1.08,9.89,287.33
+non_native_female.csv,448,8,9,0.99,1.45,7.99,24.81
+male.csv,2659,10,54,6.47,0.93,8.76,287.33
+female.csv,1269,10,26,2.86,0.0,8.1,24.81
+native_speakers.csv,2285,10,47,5.05,0.0,7.95,26.98
+non_native_speakers.csv,1643,10,33,4.28,1.08,9.37,287.33
